@@ -20,6 +20,12 @@
     FBSDKLoginButton *loginButton = [[FBSDKLoginButton alloc] init];
     loginButton.center = self.view.center;
     [self.view addSubview:loginButton];
+    
+    
+    //s/s/s/s/
+    //sasaeedsarewt
+    //safrefdf
+    //fadfyrgfdfds
 }
 
 - (void)didReceiveMemoryWarning {
